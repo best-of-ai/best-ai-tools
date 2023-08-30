@@ -1,2 +1,3 @@
-# best-ai-tools
+# Best AI Tools
+
 just the best AI tools
